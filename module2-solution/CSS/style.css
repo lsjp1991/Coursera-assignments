@@ -3,11 +3,13 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
 	text-align: center;
 	margin: 20px;
+	font-size: 175%;
 }
 
 
@@ -31,21 +33,21 @@ article{
 	position: relative;
 	width: 90%;
 	margin-right: auto;
-    margin-left: auto;
+    	margin-left: auto;
 
 }
 
 #chicken{
-	background-color: #F5B7B1;
+	background-color: #ff9999;
 }
 
 #beef{
-	background-color: #CD6155;
+	background-color: #ff1a1a;
 	color: white;
 }
 
 #sushi{
-	background-color: #F7DC6F ; 
+	background-color: #ffcc66 ; 
 }
 
 
